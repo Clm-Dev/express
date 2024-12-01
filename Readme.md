@@ -19,7 +19,7 @@ app.listen(3000)
 
 ## Installation
 
-This is a [Node.js](https://nodejs.org/en/) module available through the
+This is a [Node.js](https://nodejs.org/en/) module available through
 [npm registry](https://www.npmjs.com/).
 
 Before installing, [download and install Node.js](https://nodejs.org/en/download/).
